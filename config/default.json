@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://hasan0902:7ytkcw51gFByjgNh@cluster0.wmf4v.mongodb.net/concact_keeper?retryWrites=true&w=majority",
+  "JWTsecret" : "secret"
+}
