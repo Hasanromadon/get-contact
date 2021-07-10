@@ -1,0 +1,4 @@
+to create context :
+
+#1 create contact context
+#2 create contact state
